@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">О Программе</string>
+    <string name="about_text">У лукоморья дуб зеленый\nЗлатая цепь на дубе том\nИ днем и ночью <b>кот ученый</b>\nВсе ходит по цепи кругом\nИдет <b>направо</b> песнь заводит,\n<b>Налево</b> - сказку говорит.\n</string>
+    <string name="btabout">О Программе</string>
+</resources>

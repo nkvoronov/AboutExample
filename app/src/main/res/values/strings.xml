@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AboutExample</string>
+    <string name="about_text">About About About</string>
+    <string name="btabout">About</string>
+</resources>
